@@ -11,7 +11,7 @@
   <li>:woman_student: I am an ethusiastic learner and am pursuing my undergradute in Information Technology</li>
   <li>:computer: I am exploring the fields of web development and app development and am focusing on problem solving</li>
 
-<br>
+\
 
 <h2>My Experiences</h2>
 <ul>
@@ -21,7 +21,7 @@
   <li>Code for Anita Borg Mentee - Mentorship program by Anita Borg. Worked on an JavaScript and problem solving.</li>
   <li>WooTech Mentee -  Remote mentorship program for Women Engineers. Worked on an open source web development project using Bootstrap and JSP.</li>
   
-<br>
+\
 
 <h2>Honours and Awards</h2>
 <ul>
@@ -29,7 +29,7 @@
   <li>Winner of the 10 Days Coding Challenge hosted by Coding Blocks</li>
   <li>Secured 2nd Position in Inter School C++ Programming Competition</li>
 
-<br>
+\
 
 
 [![Sonal Kushwaha's github stats](https://github-readme-stats.vercel.app/api?username=sonalsk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
