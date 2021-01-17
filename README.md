@@ -4,12 +4,32 @@
 <a href="https://linkedin.com/in/sonal-kushwaha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sonal-kushwaha" height="30" width="40" /></a>
 <a href="mailto:@sonalkushwaha039@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" height="30" width="40" /></a>
 <a href="https://medium.com/@sonalsk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sonalsk" height="30" width="40" /></a>
+<br>
 
-
-<h3>About Me</h3>
+<h2>About Me</h2>
 <ul>
   <li>:woman_student: I am an ethusiastic learner and am pursuing my undergradute in Information Technology</li>
   <li>:computer: I am exploring the fields of web development and app development and am focusing on problem solving</li>
+
+<br>
+
+<h2>My Experiences</h2>
+<ul>
+  <li>Women Techmakers Engineering Fellow - Professional training program by TalentSprint, supported by Google. Worked on python programming, unit testing, flutter projects and problem solving. </li>
+  <li>Lean In Mentor - Mentored 2 student groups in the field of Web Development by providing them with resources to learn and helping them build projects as a team. Helping women in field of Tech and Non-Tech to grow and empower each other in technological aspects and instill within them the quality of self-efficacy.</li>
+  <li>#IamRemarkable Facilitator - Conducted 3 #IamRemarksble Sessions for Underrepresented Groups to encourage them to speak openly about their accomplishments.</li>
+  <li>Code for Anita Borg Mentee - Mentorship program by Anita Borg. Worked on an JavaScript and problem solving.</li>
+  <li>WooTech Mentee -  Remote mentorship program for Women Engineers. Worked on an open source web development project using Bootstrap and JSP.</li>
+  
+<br>
+
+<h2>Honours and Awards</h2>
+<ul>
+  <li>Secured 2nd Position among 200+ teams in an online Ideathon organised by IEEE WIE AG Delhi Section.</li>
+  <li>Winner of the 10 Days Coding Challenge hosted by Coding Blocks</li>
+  <li>Secured 2nd Position in Inter School C++ Programming Competition</li>
+
+<br>
 
 
 [![Sonal Kushwaha's github stats](https://github-readme-stats.vercel.app/api?username=sonalsk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
