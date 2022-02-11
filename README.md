@@ -2,8 +2,9 @@
 
 ## About Me
 
-* :woman_student: I am an ethusiastic learner and am pursuing my undergradute in Information Technology
-* :computer: I am exploring the fields of web development and app development and am focusing on problem solving
+:woman_student: I am an ethusiastic learner and am pursuing my undergradute in Information Technology <br>
+:computer: I am passionate about software development engineering and love exploring different areas of technology <br>
+🌏 To know more about me, visit my <a href="https://portfolios.talentsprint.com/~sonal_k/">website</a> <br>
 
 ![Sonal Kushwaha's github stats](https://github-readme-stats.vercel.app/api?username=sonalsk&show_icons=true&theme=radical)
 
